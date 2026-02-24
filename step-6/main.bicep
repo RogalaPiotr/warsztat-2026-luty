@@ -121,7 +121,6 @@ module sqlServer 'br/public:avm/res/sql/server:0.21.1' = {
         }
         collation: 'SQL_Latin1_General_CP1_CI_AS'
         maxSizeBytes: 2147483648
-        preferredEnclaveType: 'VBS'
         tags: tags
       }
     ]
