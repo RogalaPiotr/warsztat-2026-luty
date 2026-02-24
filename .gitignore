@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Bicep - kompilowane pliki ARM JSON (opcjonalnie)
+# *.json  # jeśli chcesz ignorować skompilowane ARM templates
+
+# Konfiguracje z danymi wrażliwymi
+**/backend.hcl
+
+# Wewnętrzne (tylko dla developmentu)
+.github/
+ai-instructions/
+**/runbook.ipynb
