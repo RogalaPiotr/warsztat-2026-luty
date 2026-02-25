@@ -2,8 +2,7 @@
 
 Darmowy warsztat online (Q1 2026) – JustCloud.pl
 
-🎓 **100% praktyki, zero slajdów** | Live Coding + Q&A | Jupyter Notebooks + VS Code
-
+🎓 **100% praktyki, zero slajdów** | Live Coding + Q&A
 ---
 
 ## 📋 O warsztacie
